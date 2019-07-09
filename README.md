@@ -1,2 +1,4 @@
-# vra_terraform
+# Using vRealize and Terraform to Up Your Automation Game
 Code and Videos of 2019 VMUG presentations for VRA and Terraform
+
+How strong is your automation game? Are you continually looking for ways to add reliability, resiliency & accelerate application deployment through automation and orchestration? Whether a deep automation expert or total newbie, these skills are in high demand.This technical session will focus on two of today's fastest growing automation technologies: vRealize Automation (vRA) and Terraform. Hear firsthand how the team at a major US retailer is leveraging automation to meet their digital service requirements. This session will include a complete working demonstration utilizing vRA and Terraform to build, deploy, scale, and monitor a fleet of infrastructure across VMware, AWS and Azure.Attendees will learn practical steps, utilizing infrastructure as code principals, to enable maturity across their private or hybrid clouds.
