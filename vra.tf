@@ -1,6 +1,6 @@
   provider "vra7" {
       username = "hashi-iaas@hashi.local"
-      password = "Riverpoint123"
+      password = ""
       tenant = "hashi"
       host = "https://vra-001.technoriot.local/"
       insecure = true
